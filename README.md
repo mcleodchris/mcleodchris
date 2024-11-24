@@ -8,7 +8,7 @@ I’m a software developer with over 20 years of work experience, but I’ve bee
 
 * 🌍  I'm based in Scotland.
 * 🚀  I'm currently working on [my blog](http://chrismcleod.dev/) and related tools, mostly.
-* 🧠  I'm learning Angular, Azure, and a little bit of AI.
+* 🧠  I'm learning ATproto, Azure, and a little bit of AI.
 
 ### Skills
 
